@@ -1,0 +1,7 @@
+#body{ 
+color:black;background:indigo;
+}#header h1,ul{
+    color:white; background:indigo
+}#footer{
+    color:RGB(10%,50%,0%); 
+}
